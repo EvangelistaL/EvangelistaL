@@ -69,6 +69,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/EvangelistaL/EvangelistaL/output/snake.svg" alt="Snake animation" />
+<img align="right" height="150" src="https://i.pinimg.com/originals/71/fd/c3/71fdc385d2fc17e41b43deb8218ae2c6.gif"  />
 
 ###
